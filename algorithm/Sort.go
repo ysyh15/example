@@ -62,3 +62,25 @@ func insertionSort(sortObj []int) {
 	}
 
 }
+/**
+归并排序
+ */
+func mergeSort(mergeSort []int){
+
+}
+
+/**
+快速排序
+ */
+func quickSort(quickSort []int){
+
+}
+
+/**
+桶排序
+ */
+
+
+/**
+计数排序
+ */
